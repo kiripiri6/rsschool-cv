@@ -5,6 +5,7 @@
 * **Phone**: +48733651963
 * **Email**: k.kurylczyk@gmail.com
 * **GitHub**: kiripiri6
+* **Discord**: kiri#8411
 
 ## About me
 I'm starting my adventure with programming, it's hard but I like it. I am personal trainer but i've always been interested in programming, so I decided to learn it.
