@@ -1,4 +1,4 @@
-# Kiryl Kurylchyk
+# My fullname is Kiryl Kurylchyk
 
 ## Contacts
 * **Location**: Wrocław, Poland
