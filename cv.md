@@ -1,7 +1,7 @@
 # Kiryl Kurylchyk
 
 ## Contacts
-* **Location**: Wroclaw, Poland
+* **Location**: Wrocław, Poland
 * **Phone**: +48733651963
 * **Email**: k.kurylczyk@gmail.com
 * **GitHub**: kiripiri6
@@ -10,7 +10,7 @@
 I'm starting my adventure with programming, it's hard but I like it. I am personal trainer but i've always been interested in programming, so I decided to learn it.
 
 ## Skills
-* microsoft office
+* Microsoft office
 
 ## Code Example
 ` I don't have a code yet`
@@ -18,7 +18,7 @@ I'm starting my adventure with programming, it's hard but I like it. I am person
 ## Experience
 
 ## Education
-* **University**: Jozef Pilsudski University of Physical Education in Warsaw, Trainer
+* **University**: Józef Piłsudski University of Physical Education in Warsaw, Trainer
 * **Courses**: Skiing instructor
 
 ## English
